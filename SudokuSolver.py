@@ -60,7 +60,7 @@ def solve(board):
     return False
 
 if solve(board):
-    print("Λύση:")
+    print("Solution:")
     print_board(board)
 else:
-    print("Δεν υπάρχει λύση.")
+    print("There is no solution.")
