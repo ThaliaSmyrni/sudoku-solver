@@ -18,4 +18,4 @@ Run the Python file and enter the Sudoku board values when promted.
 
 - Enter numbers from 0 to 9
 - Use 0 for empty cells
-- The probram will output the solved board
+- The program will output the solved board
